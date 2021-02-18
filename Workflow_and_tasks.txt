@@ -1,0 +1,9 @@
+1. create an empty string
+2. add 2 upper case letters
+3. add 2 lower case letters
+4. add 2 digits
+5. add 2 punctuation signs
+6. shuffle the string
+7. return
+
+
